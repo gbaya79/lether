@@ -1,0 +1,105 @@
+#EXTM3U
+
+#EXTINF:-1,|USA| ABC HD
+http://212.32.236.129:12580/live/kingnabil/171717/4780.ts
+#EXTINF:-1,|USA| AMC HD
+http://212.32.236.129:12580/live/kingnabil/171717/4783.ts
+#EXTINF:-1,|USA| BRAVO HD
+http://212.32.236.129:12580/live/kingnabil/171717/4786.ts
+#EXTINF:-1,|USA| CBS HD
+http://212.32.236.129:12580/live/kingnabil/171717/4787.ts
+#EXTINF:-1,|USA| CW HD
+http://212.32.236.129:12580/live/kingnabil/171717/4796.ts
+#EXTINF:-1,|USA| E! ENTERTAINMENT-US
+http://212.32.236.129:12580/live/kingnabil/171717/4803.ts
+#EXTINF:-1,|USA| FOX HD
+http://212.32.236.129:12580/live/kingnabil/171717/4779.ts
+#EXTINF:-1,|USA| FX HD
+http://212.32.236.129:12580/live/kingnabil/171717/4800.ts
+#EXTINF:-1,|USA| LIFETIME HD
+http://212.32.236.129:12580/live/kingnabil/171717/4802.ts
+#EXTINF:-1,|USA| NBC HD
+http://212.32.236.129:12580/live/kingnabil/171717/4805.ts
+#EXTINF:-1,|USA| SHOWTIME NEXT HD
+http://212.32.236.129:12580/live/kingnabil/171717/4809.ts
+#EXTINF:-1,|USA| SHOWTIME SHOWCASE
+http://212.32.236.129:12580/live/kingnabil/171717/4810.ts
+#EXTINF:-1,|USA| SYFY HD
+http://212.32.236.129:12580/live/kingnabil/171717/4812.ts
+#EXTINF:-1,|USA| TNT HD
+http://212.32.236.129:12580/live/kingnabil/171717/4814.ts
+#EXTINF:-1,|USA| USA NETWORK HD
+http://212.32.236.129:12580/live/kingnabil/171717/4815.ts
+#EXTINF:-1,US: HBO 1
+http://212.8.248.197:8080/live/amal/amal/1433.ts
+#EXTINF:-1,US: HBO East
+http://212.8.248.197:8080/live/amal/amal/1518.ts
+#EXTINF:-1,US: HBO Family
+http://212.8.248.197:8080/live/amal/amal/1536.ts
+#EXTINF:-1,US: HBO Signature
+http://212.8.248.197:8080/live/amal/amal/1517.ts
+#EXTINF:-1,US: Starz Edge
+http://212.8.248.197:8080/live/amal/amal/1438.ts
+#EXTINF:-1,US: Starz East
+http://212.8.248.197:8080/live/amal/amal/1450.ts
+#EXTINF:-1,US: Starz Cinema
+http://212.8.248.197:8080/live/amal/amal/1538.ts
+#EXTINF:-1,US: Starz Comedy
+http://212.8.248.197:8080/live/amal/amal/1537.ts
+#EXTINF:-1,US: Starz Encore US
+http://212.8.248.197:8080/live/amal/amal/1524.ts
+#EXTINF:-1,US: ActionMAX US
+http://212.8.248.197:8080/live/amal/amal/1527.ts
+#EXTINF:-1,US: Showtime US
+http://212.8.248.197:8080/live/amal/amal/1480.ts
+#EXTINF:-1,US: Showtime Extreme
+http://212.8.248.197:8080/live/amal/amal/1539.ts
+#EXTINF:-1,US: Cinemax
+http://212.8.248.197:8080/live/amal/amal/1461.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://212.8.248.197:8080/live/amal/amal/1512.ts
+#EXTINF:-1,US: AMC HD
+http://212.8.248.197:8080/live/amal/amal/1534.ts
+#EXTINF:-1,US: USA
+http://212.8.248.197:8080/live/amal/amal/1519.ts
+#EXTINF:-1,US: CBS
+http://212.8.248.197:8080/live/amal/amal/1510.ts
+#EXTINF:-1,US: LIFE TIME
+http://212.8.248.197:8080/live/amal/amal/1432.ts
+#EXTINF:-1,US: USA Network
+http://212.8.248.197:8080/live/amal/amal/1498.ts
+#EXTINF:-1,US: More Max HD
+http://212.8.248.197:8080/live/amal/amal/1460.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 1 HD
+http://212.8.248.197:8080/live/amal/amal/421.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 2 HD
+http://212.8.248.197:8080/live/amal/amal/420.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 3 HD
+http://212.8.248.197:8080/live/amal/amal/419.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 4 HD
+http://212.8.248.197:8080/live/amal/amal/1542.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://212.8.248.197:8080/live/amal/amal/519.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://212.8.248.197:8080/live/amal/amal/516.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://212.8.248.197:8080/live/amal/amal/517.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://212.8.248.197:8080/live/amal/amal/511.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://212.8.248.197:8080/live/amal/amal/518.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://212.8.248.197:8080/live/amal/amal/520.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://212.8.248.197:8080/live/amal/amal/521.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://212.8.248.197:8080/live/amal/amal/524.ts
+#EXTINF:-1,UK: Sky Hits Movies
+http://212.8.248.197:8080/live/amal/amal/512.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi+
+http://212.8.248.197:8080/live/amal/amal/515.ts
+#EXTINF:-1,UK: Sky Horror Channel
+http://212.8.248.197:8080/live/amal/amal/1548.ts
+
+
+
